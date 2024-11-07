@@ -1,4 +1,4 @@
-<h3 align="center">NFA Marketplace</h3>
+<h3 align="center">NFA Multi-chain Marketplace</h3>
   <p align="center">
 An open source NFT marketplace built on Reservoir.
 
